@@ -36,14 +36,14 @@ Dashboard: [Looker Studio Report](https://lookerstudio.google.com/u/0/reporting/
 
 ## Part 4 – Business Insights
 
-### 1. Two recommended actions to increase revenue
+### 1. Recommended actions to increase revenue
 - **Leverage top-performing categories/products for upselling & cross-selling**  
   Focus marketing efforts on top categories. Launch targeted campaigns such as “complete the look” bundles or premium add-ons to boost average order value and strengthen customer stickiness.  
 
 - **Balance revenue growth with profitability**  
   Not all top products yield the same margins. Prioritize promotions and inventory for high-margin products (high revenue and high profit) within these categories to ensure sustainable profit growth.  
 
-### 2. One marketing opportunity for high-value customers
+### 2. Marketing opportunity for high-value customers
 Insights show:  
 - 70% of top customers are male  
 - Over 30 years old  
@@ -53,6 +53,6 @@ Insights show:
 **Opportunity:** Create a *personalized premium loyalty program* (early access to collections, exclusive previews, or men’s fashion bundles). Combine with targeted SEO/SEM campaigns to maximize engagement and revenue from this segment.  
 
 
-### 3. One data gap to address before making decisions
+### 3. Data gap to address before making decisions
 - **Granularity of customer insights**: Current analysis is based on only the top 10 customers. A larger segment (e.g., top 5–10% by revenue) is needed for robust conclusions.  
 - **Time-based category performance**: Fashion trends shift quickly. Performance should be analyzed over shorter intervals (monthly/quarterly) to distinguish sustainable growth drivers from seasonal spikes.  
