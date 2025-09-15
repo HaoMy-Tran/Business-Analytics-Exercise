@@ -31,7 +31,7 @@ Please refer to the file: **`Part 1 – SQL Querying`**
 
 
 ## Part 3 – Visualization
-Dashboard: [Looker Studio Report](https://lookerstudio.google.com/u/0/reporting/d03aee78-953e-421c-96a5-c336649d21b9/page/tEnnC/edit)
+Dashboard: [Looker Studio Report](https://lookerstudio.google.com/u/0/reporting/d03aee78-953e-421c-96a5-c336649d21b9/page/tEnnC)
 
 
 ## Part 4 – Business Insights
