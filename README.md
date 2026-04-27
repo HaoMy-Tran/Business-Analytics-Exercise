@@ -6,6 +6,9 @@ Schema
 
 ## Part 1 – SQL Querying
 Please refer to the file: **`Part 1 – SQL Querying`**
+
+***Note:** This is a live dataset that is updated frequently. Consequently, metrics calculated on the total dataset may shift over time. The results below reflect data as of April 24, 2026.*
+
 1.  Monthly Revenue Trend <br><br>
 <img width="917" height="791" alt="image" src="https://github.com/user-attachments/assets/31a3380b-b12e-48c4-a043-6b982d8c7bb6" /> <br>
 2.  Top 5 Products by Revenue <br><br>
