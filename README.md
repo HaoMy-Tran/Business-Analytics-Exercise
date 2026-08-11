@@ -1,4 +1,8 @@
 # E-commerce Clothing Store Analysis
+## Requirements
+<img width="773" height="852" alt="image" src="https://github.com/user-attachments/assets/a8369d82-b8e7-4d17-8ed8-c9876051ac1b" /><br>
+<img width="773" height="593" alt="image" src="https://github.com/user-attachments/assets/f7ecc79c-c73c-498f-9bc8-a31389881500" />
+ 
 ## Dataset overview
 Schema
 
